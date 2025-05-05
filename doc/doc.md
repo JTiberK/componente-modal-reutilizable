@@ -22,3 +22,7 @@ $ npm run dev
                             Modal.jsx  
             App.jsx  
 ```
+
+### (Importante)
+
+$ npx @tailwindcss/upgrade

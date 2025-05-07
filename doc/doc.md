@@ -27,9 +27,9 @@ $ npm run dev
 
 $ npx @tailwindcss/upgrade
 
----
-
 Para probar en cualquier sitio:
+
+---
 
 Descarga de ZIP de GitHub y dentro de directorio, ejecutar:
 
